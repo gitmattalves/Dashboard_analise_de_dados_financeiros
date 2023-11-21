@@ -11,7 +11,7 @@ O projeto foi desenvilvido durante as aulas do curso de Microsoft Power BI Para 
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/postrh_blog-768x480.png#vitrinedev)
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/tabelainicial.png#vitrinedev)
 
 ## Detalhes do projeto
 
@@ -34,7 +34,11 @@ Além disso a empresa precisa identificar os segmentos onde Receitas e Despesas 
 maiores e menores a fim de traçar seu plano estratégico.
 
 #### Tratamento dos dados
-Primeiramente, foi realizado algumas transformações para adequarmos os dados para as próximas etapas, como transformaros valores de datas e Valores em colunas. Para isso, utiizams  a função UnpivotOther:
+Primeiramente, foi realizado algumas transformações para adequarmos os dados para as próximas etapas, como transformaros valores de datas e Valores em colunas. 
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/tabelainicial.png#vitrinedev)
+
+Para realizar a tranformação, foi utilizada  a função UnpivotOther:
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/tabelaunpivot.png#vitrinedev)
 
 
 #### Tabela de Medidas
