@@ -33,8 +33,13 @@ Tipo/Componente.
 Além disso a empresa precisa identificar os segmentos onde Receitas e Despesas são
 maiores e menores a fim de traçar seu plano estratégico.
 
+#### Tratamento dos dados
+Primeiramente, foi realizado algumas transformações para adequarmos os dados para as próximas etapas, como transformaros valores de datas e Valores em colunas. Para isso, utiizams  a função UnpivotOther:
+
+
 #### Tabela de Medidas
-Primeiramente foi criada uma nov
+Após a limpeza e tratamento dos dados, foi realizado a criação de uma nova tabela e medidas para faciliatar o processo de realização dos calculos desejados.
+Foi então criada 4 as novas medidas: Total de Receitas, Total de Despesas, Lucro e Margem de Lucro.
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/tabela%20de%20medidas.png#vitrinedev)
 
 #### Primeiras Métricas
