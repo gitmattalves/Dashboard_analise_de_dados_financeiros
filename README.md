@@ -11,7 +11,7 @@ O projeto foi desenvilvido durante as aulas do curso de Microsoft Power BI Para 
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/tabelainicial.png#vitrinedev)
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/dados_financeiros.jpeg#vitrinedev)
 
 ## Detalhes do projeto
 
