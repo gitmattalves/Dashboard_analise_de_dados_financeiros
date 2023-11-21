@@ -42,9 +42,10 @@ Para realizar a tranformação, foi utilizada  a função UnpivotOther:
 
 
 #### Tabela de Medidas
-Após a limpeza e tratamento dos dados, foi realizado a criação de uma nova tabela e medidas para faciliatar o processo de realização dos calculos desejados.
-Foi então criada 4 as novas medidas: Total de Receitas, Total de Despesas, Lucro e Margem de Lucro.
-![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/tabela%20de%20medidas.png#vitrinedev)
+Após a limpeza e tratamento dos dados, foi realizado a criação da tabela Medidas de Indicadores Financeiros e tambem a criação de novas medidas para facilitar a realização dos calculos desejados.
+Foi então criada 4 as novas medidas: **Total de Receitas**, **Total de Despesas**, **Lucro** e **Margem de Lucro**.
+
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/tabelademedidas.png#vitrinedev)
 
 #### Primeiras Métricas
 Os primeiros dados apresentados, foram criados através dos cartões de visualização, esse modelo foi o escolhido por trazer infromações simples, com valores únicos em cada cartão.
