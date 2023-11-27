@@ -49,22 +49,24 @@ Foi então criada 4 as novas medidas: **Total de Receitas**, **Total de Despesas
 
 #### Primeiras Métricas
 Os primeiros dados apresentados, foram criados através dos cartões de visualização por trazer infromações simples, com valores únicos em cada cartão.
-Estes visuais, tinham como objetivo obter o conhecimento geral dos funcionários da empresa, como a quantidade de funcionários, quantidade e porcentagem por gênero, total por função e salário médio.
+Trazendo assim o total de receitas e despesas, assim como a margem de lucro da empresa.
 
 
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/primeiras-metricas.png#vitrinedev)
 
-#### Métricas mais complexas 
-Posteriormente, foi gerada a apresentação de dados mais complexos, com a junção entre vários dados para obtação das métricas desejadas.
-Como funcionários por cargos, porcentagem dos funcionários que estavam disponíveis para fazer hora extra e do envolvimento deles com o trabalho.
+#### Despesas e Receitas por componentes
 
-![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/metricas_complexas.png#vitrinedev)
+Optou-se por realizar a representação dos valores em gráficos distintos para uma melhor representividade dos dados analisados.
+Para o Total de Despesas x Componentes foi gerado o gráfico de área com uma representação da linha média de despesas da empresa.
+Já para Receitas x Componentes, optpou-se por realizar o gráfico de barras para uma melhor quantificação dos dados das receitas apuradas pela empresa.
 
-#### Dashboard Completo
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/metricas_secundarias.png#vitrinedev)
 
-Para finalizar, inseri a segmentção de dados para podermos realizar o filtro pela idade ou faixa de idade desejada.
-Após as configurações finais e formatações, concluímos o visual do nosso relatório de Análise de Dados de RH.
+#### Matriz
 
-![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/painelcompleto.png#vitrinedev)
+A matriz traz de forma especificada, os dados de Despesas e Receitas por componentes e anos disponibilizados nos dado.
+
+
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/matriz_financeira.png#vitrinedev)
 
 Posteriormente, será explorado um pouco mais esses dados para a geração de mais métrica sobre os setor.
