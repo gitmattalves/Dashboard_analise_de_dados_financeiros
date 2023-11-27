@@ -48,11 +48,11 @@ Foi então criada 4 as novas medidas: **Total de Receitas**, **Total de Despesas
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/tabelademedidas.png#vitrinedev)
 
 #### Primeiras Métricas
-Os primeiros dados apresentados, foram criados através dos cartões de visualização, esse modelo foi o escolhido por trazer infromações simples, com valores únicos em cada cartão.
+Os primeiros dados apresentados, foram criados através dos cartões de visualização por trazer infromações simples, com valores únicos em cada cartão.
 Estes visuais, tinham como objetivo obter o conhecimento geral dos funcionários da empresa, como a quantidade de funcionários, quantidade e porcentagem por gênero, total por função e salário médio.
 
 
-![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/primeiras%20medidas.png#vitrinedev)
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/primeiras-metricas.png#vitrinedev)
 
 #### Métricas mais complexas 
 Posteriormente, foi gerada a apresentação de dados mais complexos, com a junção entre vários dados para obtação das métricas desejadas.
