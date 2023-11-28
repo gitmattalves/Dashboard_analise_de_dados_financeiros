@@ -68,6 +68,23 @@ A matriz traz de forma detalhada, os dados de Despesas e Receitas por componente
 Para identificar os segmentos onde Receitas e Despesas são maiores e menores, a fim de traçar seu plano estratégico, foi criada uma nova página para trazer os segmentos utilizando o painel de visualização dos Principais Indicadores que influenciam nos resultados. 
 Para este relatório, optou-se por retirar do Tipo de Análise os Principais Indicadores e mostrar somente os Principais Segmentos. 
 
+Valores Altos:
+
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/segmento_alto.png#vitrinedev)
+
+Valores Baixos:
+
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/segmento_baixo.png#vitrinedev)
+
+
+#### Relatório Final
+
+Página 1:
+
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/dados_gerais.png#vitrinedev)
+
+Página 2:
+
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/segmento_alto.png#vitrinedev)
 
 Detalhando os resultados acessando cada segmento:
@@ -79,7 +96,3 @@ Detalhando os resultados acessando cada segmento:
 Detalhamento os segmento:
 
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/baixo_detalhado.png#vitrinedev)
-
-#### Relatório Final
-
-![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/dados_gerais.png#vitrinedev)
