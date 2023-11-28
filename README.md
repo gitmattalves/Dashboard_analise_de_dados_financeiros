@@ -3,7 +3,7 @@ O projeto foi desenvilvido durante as aulas do curso de Microsoft Power BI Para 
 
 | :rocket: Vitrine.Dev |    |
 | -------------  | --- |
-| :sparkles: Nome        | **Análise de Dados Financeiros**
+| :bar_chart: Nome        | **Análise de Dados Financeiros**
 | :computer: Tecnologias | Power BI (tecnologias utilizadas)
 | :globe_with_meridians: URL do Relatório         | [https://shre.ink/915C](https://acesse.dev/cgIG5)
 
