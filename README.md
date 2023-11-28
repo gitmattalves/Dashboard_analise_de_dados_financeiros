@@ -5,7 +5,7 @@ O projeto foi desenvilvido durante as aulas do curso de Microsoft Power BI Para 
 | -------------  | --- |
 | :sparkles: Nome        | **Análise de Dados Financeiros**
 | :computer: Tecnologias | Power BI (tecnologias utilizadas)
-| :globe_with_meridians: URL         | [https://shre.ink/915C](https://acesse.dev/cgIG5)
+| :globe_with_meridians: URL do Relatório         | [https://shre.ink/915C](https://acesse.dev/cgIG5)
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
