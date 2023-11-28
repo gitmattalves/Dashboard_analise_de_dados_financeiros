@@ -32,10 +32,12 @@ Além disso a empresa precisa identificar os segmentos onde Receitas e Despesas 
 maiores e menores a fim de traçar seu plano estratégico.
 
 #### Tratamento dos dados
-Primeiramente, foi realizado algumas transformações para adequarmos os dados para as próximas etapas, como transformaros valores de datas e Valores em colunas. 
+Primeiramente, foi realizado algumas transformações para adequarmos os dados para as próximas etapas, como transformaros datas e valores em colunas.
+
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/tabelainicial.png#vitrinedev)
 
 Para realizar a tranformação, foi utilizada  a função UnpivotOther:
+
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/tabelaunpivot.png#vitrinedev)
 
 
@@ -64,18 +66,19 @@ A matriz traz de forma detalhada, os dados de Despesas e Receitas por componente
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/matriz_financeira.png#vitrinedev)
 
 #### Principais Segmentos
-Além disso, a empresa precisa identificar os segmentos onde Receitas e Despesas são maiores e menores a fim de traçar seu plano estratégico.
-Para isso, foi criada uma nova página para trazer os segmentos utilizando o painel de visualização dos Principais Indicadores que influenciam nos resultados. 
+Para identificar os segmentos onde Receitas e Despesas são maiores e menores, a fim de traçar seu plano estratégico, foi criada uma nova página para trazer os segmentos utilizando o painel de visualização dos Principais Indicadores que influenciam nos resultados. 
 Para este relatório, optou-se por retirar do Tipo de Análise os Principais Indicadores e mostrar somente os Principais Segmentos. 
 
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/segmento_alto.png#vitrinedev)
 
 Detalhando os resultados acessando cada segmento:
+
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/alto_detalhado.png#vitrinedev)
 
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/segmento_baixo.png#vitrinedev)
 
 Detalhamento os segmento:
+
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_financeiros/blob/main/baixo_detalhado.png#vitrinedev)
 
 #### Relatório Final
