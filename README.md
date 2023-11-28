@@ -6,7 +6,6 @@ O projeto foi desenvilvido durante as aulas do curso de Microsoft Power BI Para 
 | :sparkles: Nome        | **Análise de Dados Financeiros**
 | :computer: Tecnologias | Power BI (tecnologias utilizadas)
 | :globe_with_meridians: URL         | [https://shre.ink/915C](https://acesse.dev/cgIG5)
-| :bar_chart: Demais Projetos     | https://l1nk.dev/portfolio-mateus-alves-dos-santos
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
